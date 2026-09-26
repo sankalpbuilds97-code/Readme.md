@@ -1,92 +1,112 @@
-# 👋 Hi, I'm Sankalp Rayewar
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,50:2563eb,100:7c3aed&height=230&section=header&text=Sankalp%20Rayewar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Frontend%20Designer%20%C2%B7%20AI%2FML%20Builder&descAlignY=58&descSize=18" alt="Sankalp Rayewar — Full-Stack Developer, Frontend Designer, AI/ML Builder" width="100%" />
 
-### Engineering Student • Developer • AI/ML Explorer
+  <a href="https://github.com/Sankalpia">
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=21&duration=3400&pause=900&color=60A5FA&center=true&vCenter=true&width=650&lines=Crafting+bold+digital+experiences.;Building+with+code%2C+design%2C+and+AI.;Always+learning.+Always+shipping." alt="Typing introduction" />
+  </a>
+</div>
 
-I’m an engineering student passionate about building useful technology, creating polished web experiences, and exploring how AI can turn ideas into practical products.
+<br/>
 
-I like learning by building — experimenting with new tools, understanding modern AI systems, and turning what I learn into real projects.
+## <img src="https://img.icons8.com/fluency/28/rocket.png" width="24" alt=""/> About me
 
----
+**Developer by curiosity. Designer by instinct. Builder by default.**
 
-## 🚀 About Me
+I'm **Sankalp Rayewar** — a student developer exploring the space where sharp interfaces, full-stack engineering, and intelligent systems meet. I enjoy turning ambitious ideas into interactive products that feel as good as they work.
 
-- 🎓 Engineering student building a strong foundation in software development
-- 💻 Interested in **frontend, full-stack development, and modern web technologies**
-- 🤖 Exploring **AI/ML, generative AI, and AI-powered applications**
-- 🎨 Interested in creating interfaces that are both functional and polished
-- 🔬 Curious about emerging technologies and constantly experimenting with new tools
-- 📚 Learning through projects, experimentation, and continuous improvement
+- 🔭 Exploring **full-stack web development** and **AI-powered experiences**
+- 🎨 Designing expressive, user-first frontends with modern web tools
+- 🧠 Learning by building, experimenting, and sharing the journey
+- 🤝 Open to collaborating on meaningful **web, AI, and creative-tech** projects
 
----
+<br/>
 
-## 🧭 Current Focus
+## <img src="https://img.icons8.com/fluency/28/domain.png" width="24" alt=""/> Portfolio & presence
 
-```text
-BUILD      → user-focused web experiences
-LEARN      → software engineering & modern development
-EXPLORE    → AI/ML & generative AI
-EXPERIMENT → emerging technologies and developer tools
-SHIP       → small, meaningful projects
-```
+<div align="center">
+  <a href="https://sankalpr.in/"><img src="https://img.shields.io/badge/Personal_Site-0B1020?style=for-the-badge&logo=googlechrome&logoColor=60A5FA" alt="Sankalp's personal site" /></a>
+  <a href="https://sites.google.com/view/sanks/sankalp"><img src="https://img.shields.io/badge/Portfolio_01-0B1020?style=for-the-badge&logo=googlesites&logoColor=A78BFA" alt="Sankalp's first Google Sites portfolio" /></a>
+  <a href="https://sites.google.com/view/sankalpr"><img src="https://img.shields.io/badge/Portfolio_02-0B1020?style=for-the-badge&logo=googlesites&logoColor=60A5FA" alt="Sankalp's second Google Sites portfolio" /></a>
+  <a href="https://www.instagram.com/sankalp_ray.69/"><img src="https://img.shields.io/badge/Instagram-0B1020?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Sankalp on Instagram" /></a>
+</div>
 
----
+<div align="center">
+  <sub>Explore my projects, personal highlights, and creative journey across the web.</sub>
+</div>
 
-## 🛠️ Areas I'm Working In
+<br/>
 
-| Area | Focus |
-|---|---|
-| 🌐 Web Development | Frontend, full-stack concepts, responsive interfaces |
-| 🤖 Artificial Intelligence | AI/ML concepts, generative AI, AI-powered workflows |
-| 🎨 Product & UI | Clean, user-first digital experiences |
-| 🧪 Experimentation | New AI models, developer tools, and emerging technology |
-| 📈 Growth | Building projects and strengthening engineering fundamentals |
+## <img src="https://img.icons8.com/fluency/28/code.png" width="24" alt=""/> What I'm exploring
 
----
+<div align="center">
+  <img src="https://img.shields.io/badge/Full--Stack_Web-0B1020?style=for-the-badge&logo=webflow&logoColor=60A5FA" alt="Full-stack web" />
+  <img src="https://img.shields.io/badge/Frontend_Design-0B1020?style=for-the-badge&logo=figma&logoColor=A78BFA" alt="Frontend design" />
+  <img src="https://img.shields.io/badge/AI_%2F_ML-0B1020?style=for-the-badge&logo=openai&logoColor=60A5FA" alt="AI and machine learning" />
+  <img src="https://img.shields.io/badge/Open_Source-0B1020?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Open source" />
+</div>
 
-## 💡 What You'll Find Here
+<br/>
 
-This GitHub is my development workspace and learning record.
+## <img src="https://img.icons8.com/fluency/28/artificial-intelligence.png" width="24" alt=""/> Current focus
 
-I’m using it to:
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- Build and experiment with software projects
-- Document what I learn
-- Explore AI-assisted development
-- Test new technologies and ideas
-- Improve my engineering skills through hands-on work
+### 🌐 Full-stack craft
+Building responsive web experiences from polished UI to reliable backend logic.
 
-As my experience grows, this profile will increasingly showcase **projects, experiments, technical write-ups, and practical implementations**.
+</td>
+<td width="50%" valign="top">
 
----
+### ✦ Product-minded design
+Creating interfaces that are intuitive, distinctive, and built around real users.
 
-## 🌱 My Development Philosophy
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-> **Learn → Build → Test → Improve → Ship**
+### 🤖 AI / ML exploration
+Experimenting with intelligent features and practical AI-powered workflows.
 
-I believe the fastest way to understand technology is to use it to solve real problems.
+</td>
+<td width="50%" valign="top">
 
----
+### ⚡ Continuous growth
+Learning in public, shipping small projects, and leveling up one build at a time.
 
-## 📫 Connect With Me
+</td>
+</tr>
+</table>
 
-- 🌐 **Portfolio:** [sankalpr.in](https://sankalpr.in/)
-- 📧 **Email:** [sankalpbuilds97@gmail.com](mailto:sankalpbuilds97@gmail.com)
-- 💻 **GitHub:** [@sankalpr-create](https://github.com/sankalpr-create)
+<br/>
 
----
+## <img src="https://img.icons8.com/fluency/28/combo-chart.png" width="24" alt=""/> GitHub activity
 
-### ⚡ Current Status
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sankalpia&show_icons=true&hide_border=true&bg_color=0b1020&title_color=60a5fa&icon_color=a78bfa&text_color=cbd5e1&ring_color=60a5fa" alt="Sankalpia's GitHub stats" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Sankalpia&hide_border=true&background=0B1020&ring=60A5FA&fire=A78BFA&currStreakLabel=CBD5E1&sideLabels=CBD5E1&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Sankalpia's contribution streak" />
+</div>
 
-```text
-student developer
-├── building        ███████████████░░░  80%
-├── learning        █████████████████░  90%
-├── experimenting   ████████████████░░  85%
-└── shipping        ████████████░░░░░░  70%
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sankalpia&bg_color=0b1020&color=cbd5e1&line=60a5fa&point=a78bfa&area=true&hide_border=true" alt="Sankalpia's contribution graph" width="96%" />
+</div>
 
-status → OPEN TO LEARNING, BUILDING & COLLABORATING
-```
+<br/>
 
----
+## <img src="https://img.icons8.com/fluency/28/handshake.png" width="24" alt=""/> Let's build something
 
-<sub>Built with curiosity. Updated as I learn, build, and grow.</sub>
+<div align="center">
+  <p>Have an idea, collaboration, or interesting problem? I'd love to hear about it.</p>
+  <a href="mailto:sankalprayewar2008@gmail.com"><img src="https://img.shields.io/badge/Email-0B1020?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email Sankalp" /></a>
+  <a href="https://github.com/Sankalpia"><img src="https://img.shields.io/badge/GitHub-0B1020?style=for-the-badge&logo=github&logoColor=white" alt="Sankalp on GitHub" /></a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sankalpia&label=PROFILE+VIEWS&color=2563eb&style=flat-square" alt="Profile views" />
+  <br/><br/>
+  <sub>Built with curiosity, caffeine, and a love for great digital experiences.</sub>
+</div>
